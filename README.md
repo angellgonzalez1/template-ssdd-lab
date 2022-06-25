@@ -31,3 +31,5 @@ following files and directories:
 - `setup.cfg` is a Python distribution configuration file for
   Setuptools. It needs to be modified in order to adeccuate to the
   package name and console handler functions.
+  
+  
